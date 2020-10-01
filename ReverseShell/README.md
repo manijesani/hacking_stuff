@@ -1,8 +1,8 @@
 # Reverse Shell Using Python and Net cat for Windows 10 Version 1903 (Defender Bypassed)
 linux System> (Attacker)
-<li>setup a remote linux system over aws or gcp <li>
-<li>install netcat <li>
-<li>Then type "nc -nvlp 7788 " command in terminal <li>
+<li>setup a remote linux system over aws or gcp </li>
+<li>install netcat </li>
+<li>Then type "nc -nvlp 7788 " command in terminal </li>
 Windows System> (Victim)
 <li>Download netcat from official website. </li>
 <li>Extract it upload nc64.exe file to any free platform over internet. </li>
