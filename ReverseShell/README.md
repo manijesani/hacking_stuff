@@ -7,7 +7,7 @@ Windows System> (Victim)
 <li>Download netcat from official website. </li>
 <li>Extract it upload nc64.exe file to any free platform over internet. </li>
 <li>Download reverse_shell.py file. </li>
-<li> Edit file and change url <li>
+<li> Edit file and change url </li>
 <li> Run the Script </li>
 <li> Type IP and Port. </li>
 <Done>
