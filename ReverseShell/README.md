@@ -9,6 +9,6 @@ Windows System> (Victim)
 <li>Download reverse_shell.py file. </li>
 <li> Edit file and change url </li>
 <li> Run the Script </li>
-<li> Type IP and Port. </li>
+<li> Type IP of Attacker Machine </li>
 <Done>
 <li> Enjoy ....</li>
